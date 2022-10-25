@@ -1,0 +1,4 @@
+logfile.txt
+*.log
+logs/*.txt
+!logs/samplelog.log
